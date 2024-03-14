@@ -9,6 +9,6 @@
         "id": 2,
         "priority": 1,
         "action": {"type": "block"},
-        "condition": {"urlFilter": "*://*doubleclick.net/*" }
+        "condition": {"urlFilter": "*://*googleadservices.com/*" }
     }
 ]
